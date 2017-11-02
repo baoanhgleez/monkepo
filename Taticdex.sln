@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyLib", "StrategyLib\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{2D11A9F6-C422-4AED-B580-3648157136C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputTool", "InputTool\InputTool.csproj", "{E6DD941C-49DF-4091-BA4A-E5E7D3DBFED5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{2D11A9F6-C422-4AED-B580-3648157136C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D11A9F6-C422-4AED-B580-3648157136C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D11A9F6-C422-4AED-B580-3648157136C2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E6DD941C-49DF-4091-BA4A-E5E7D3DBFED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E6DD941C-49DF-4091-BA4A-E5E7D3DBFED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E6DD941C-49DF-4091-BA4A-E5E7D3DBFED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E6DD941C-49DF-4091-BA4A-E5E7D3DBFED5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
